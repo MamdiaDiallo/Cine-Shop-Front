@@ -14,7 +14,7 @@ Exécuter dans un système de base de données relationnelle
   cd Data
   data_cine_shop.sql
 ```
-## Compilation  du Back End NestJS
+## Compilation  du Back End NestJS 'http://localhost:3003/film'
 
     ```bash
   cd Cine-Shop
@@ -23,7 +23,7 @@ Exécuter dans un système de base de données relationnelle
   npm run start:dev
  
 ```
- 'http://localhost:3003/film'
+ 
 ## Compilation  du Front End React Typescript
 
     ```bash
