@@ -13,15 +13,14 @@ Exécuter dans un système de base de données relationnelle
   cd Cine-Shop
   cd Data
   data_cine_shop.sql
-```
-## Compilation  du Back End NestJS 'http://localhost:3003/film'
 
-    ```bash
+## Compilation  du Back End NestJS 'http://localhost:3003/film'
+```bash
+  
   cd Cine-Shop
   cd Cine-Shop-Back
   npm Install
   npm run start:dev
- 
 ```
  
 ## Compilation  du Front End React Typescript
