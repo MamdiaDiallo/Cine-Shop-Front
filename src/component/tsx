@@ -1,0 +1,23 @@
+import React from 'react';
+import { Container,Nav, Navbar as NavbarBs } from 'react-bootstrap';
+import { NavLink } from 'react-router-dom';
+
+const Bar = () => {
+    return (
+        <div className='navbar'>
+            <NavbarBs className=' shadow-sm mb-3'>
+            <Container>
+                <Nav>
+            
+                <NavLink to="/"> home</NavLink>
+<NavLink to="/magasin"> Magasin</NavLink>
+<NavLink to="/apropos"> apropos</NavLink>
+
+         </Nav>
+            </Container>
+            </NavbarBs>
+        </div>
+    );
+};
+
+export default Bar;
