@@ -1,6 +1,7 @@
 
 # Ciné-Shop
 Ciné-Shop est un site internet kiosque divisé en deux parties, une partie vente de film et une autre partie location de film en ligne.
+Le rapport est ici dans le front fichier REPORT-Diallo-Mamoudou.pdf
  
 
 
